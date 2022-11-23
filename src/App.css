@@ -1,0 +1,6 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Quicksand', sans-serif;
+  gap: 40px;
+}
